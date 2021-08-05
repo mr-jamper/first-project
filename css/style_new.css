@@ -1,0 +1,80 @@
+body{
+	background-color: #e3840f;
+	mim-width: 1620;
+}
+.background {
+	
+
+}
+.container {
+	width: 1620px;
+	margin: 0 auto;
+	padding: 120px 0 0 88px;
+
+}
+.navi {
+	border: 1px solid black;
+	
+	
+}
+.logo {
+	background: url('../img/coub.png')0 0/contain no-repeat;
+	width: 200px;
+	height: 50px;
+	display: inline-block;
+	margin-top: 0px;
+	border: 1px solid black;
+
+}
+.menu_title {
+	width: 100%px;
+	height: 50px;
+	
+	/*display: flex;*/
+	/*display: inline-block;*/
+	border: 1px solid black;
+	
+
+}
+.title_chek {
+	/*display: inline-block;*/
+	margin-top:-230px;
+	float: left;
+}
+
+ul li {
+	display: inline-block;
+		line-height: 1.43;
+	letter-spacing: normal;
+	font-size: 28px;
+	margin-top: 50px;
+	border: 1px solid black
+
+
+}
+.HEDER {}
+.img_left {
+	background: url('../img/girl.png') 0 0/contain no-repeat ;
+	width: 453px;
+	height: 377px;
+	display: inline-block;
+	border: 1px solid black
+	
+}
+.content_all {
+	display: inline-block;
+	border: 1px solid black
+}
+.content {}
+.content_bottom {}
+.button {}
+.button_join {}
+.join {}
+.button_read {}
+.read {}
+.feetback {}
+.ico {}
+.feetback_link {}
+.email {}
+.web {}
+.futer {}
