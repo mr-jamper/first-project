@@ -308,13 +308,14 @@ font-size: 16px;
   }
  .content{
   display: block;
-  margin: 700px 0 0 40px;
+  margin: 600px 0 0 40px;
  } 
   
 }  
   @media (max-width: 992px){
   .container{
     max-width:750px ;
+    min-height: 980px;
         background:url('../img/girl.png') 130px 120px/ 70% no-repeat,
     url('../img/vector.png') 0 0/ 100%  no-repeat,
     url('../img/shape.png') 1500px 100px/ 50px  no-repeat,
@@ -396,5 +397,5 @@ font-size: 16px;
   padding: 5px 5px ;
 }  
 .feetback {
-  margin: 50px 0 0 -50px;
+  margin: 50px 0 20px -70px;
   }
